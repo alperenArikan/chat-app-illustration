@@ -305,6 +305,9 @@ body {
     width: 35%;
     margin-left: 2rem;
 }
+.parag h1{
+    color: hsl(271, 36%, 24%);
+}
 .attribution{
     position: absolute;
     bottom: 0;
